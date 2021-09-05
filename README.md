@@ -4,7 +4,7 @@
 
 🍎 iOS Developer | WWDC 2021 Scholar
 
-Working at [Robinhood](https://robinhood.com/us/en/), previously at [Nanoleaf](https://nanoleaf.me/en-CA/)
+Worked @ [Robinhood](https://robinhood.com/us/en/), previously @ [Nanoleaf](https://nanoleaf.me/en-CA/)
 
 [Website 💻](https://alanyan.ca) | [LinkedIn 🖇](https://www.linkedin.com/in/yan-alan/) | [Cloud Battery ☁️🔋](https://alanyan.ca/CloudBattery/)
 
